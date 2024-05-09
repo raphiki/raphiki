@@ -1,4 +1,9 @@
-### Hi there 👋
+![Raphiki](https://github.com/raphiki/raphiki/assets/3777259/e9e60ca5-1e0c-4b76-844e-2df3062ca649)
+
+Want to know more about me? Check https://raphiki.github.io/
+
+
+
 
 <!--
 **raphiki/raphiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
